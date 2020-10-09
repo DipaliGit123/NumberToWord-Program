@@ -8,7 +8,7 @@ public class NumIntoWord{
 	//unit array having constant values
 	static String unit[]={"","One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten",
 				"Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen",
-				"Seventeen","Eighteen","Ninteen"};
+				"Seventeen","Eighteen","Ninteen"};kjnj
 
 	//tens array having constant values
 	static String tens[]={"","","Twenty","thirty","Fourty","Fifty","Sixty","Seventy","Eighty","Ninty"};
